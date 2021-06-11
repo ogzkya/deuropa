@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "deuropa",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

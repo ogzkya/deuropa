@@ -1,0 +1,8 @@
+{
+  "name": "deuropa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "dcec89d9"
+}
